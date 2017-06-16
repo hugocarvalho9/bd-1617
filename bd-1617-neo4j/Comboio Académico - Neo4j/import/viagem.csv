@@ -1,0 +1,11 @@
+idViagem,preco_atual,hora_partida,hora_chegada,local_partida,local_chegada,comboio
+1,2.50,09:30:00,10:15:00,"Viana do Castelo",Barcelos,1
+2,2.50,11:00:00,11:45:00,Barcelos,"Viana do Castelo",1
+3,2.00,10:00:00,11:00:00,Braga,Porto,2
+4,2.00,11:00:00,11:45:00,Porto,Braga,2
+5,2.00,12:00:00,13:00:00,Braga,Porto,3
+6,2.80,15:00:00,16:00:00,Porto,Barcelos,3
+7,2.30,17:00:00,17:50:00,Barcelos,"Viana do Castelo",3
+8,4.30,19:00:00,20:30:00,"Viana do Castelo",Braga,3
+9,3.30,12:00:00,13:00:00,"Santiago de Compostela",Corunha,4
+10,3.30,16:00:00,17:00:00,Corunha,"Santiago de Compostela",4
